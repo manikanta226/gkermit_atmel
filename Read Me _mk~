@@ -1,0 +1,7 @@
+gkermit source downloaded from 
+
+http://www.columbia.edu/kermit/gkermit.html
+
+Modifications in 
+Makefile (gwart_intel is compiled for pc used to convert .w to .c) 
+gunixio.c for usb port. In source it is defined only for serial
